@@ -1,2 +1,1 @@
-# Creating Pandas Profile Report Based on Custom SQL Input with Custom Rule Engine
-
+# Please refer to <link> https://github.com/ZawWin/dataprofile-with-custom-rule-engine/blob/main/dataprofiling_readme.pdf </link>
